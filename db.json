@@ -1,0 +1,39 @@
+{
+    "eventos": [
+        {
+            "descricao": "Estudar React",
+            "inicio":"2024-09-04T09:00",
+            "fim":"2024-09-04T013:00",
+            "completo": false,
+            "id": 1642342747
+        },
+        {
+            "descricao": "Estudar Typescript",
+            "inicio":"2024-09-04T09:00",
+            "fim":"2024-09-05T013:00",
+            "completo": false,
+            "id": 1642342742
+        },
+        {
+            "descricao": "Estudar React",
+            "inicio":"2024-09-04T09:00",
+            "fim":"2024-09-06T013:00",
+            "completo": false,
+            "id": 1642342745
+        },
+        {
+            "descricao": "Estudar React",
+            "inicio":"2024-09-04T09:00",
+            "fim":"2024-09-07T013:00",
+            "completo": false,
+            "id": 1642342748
+        },
+        {
+            "descricao": "Estudar Recoil",
+            "inicio":"2024-09-04T09:00",
+            "fim":"2024-09-04T013:00",
+            "completo": false,
+            "id": 1642342959
+        }
+    ]
+  }
